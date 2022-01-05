@@ -3,7 +3,7 @@
 # Hi, I'm Varun More
 
   
-###  Computer Science Major| Seeking Software Engineering Internship.
+### Aspiring Machine Learning Engineer 📊| Computer Science💻 + Artificial Intelligence🧠 | Python, C++, C Programming, JavaScript.
 ### 🔗 _Portfolio-site_ - [click here](https://varmor.github.io/)
 
 ## 🛠 Skills
