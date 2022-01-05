@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**varmor/varmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Varun More
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+###  Computer Science Major| Seeking Software Engineering Internship.
+### 🔗 _Portfolio_ - [click here](https://varmor.github.io/)
+
+## 🛠 Skills
+- C Programming, 
+- C++,
+- Python,
+- JavaScript,
+- MySQL,
+- HTML/CSS.
+
+  
+## 😃 About me 
+ - 🍳Find me on [LinkedIn](https://www.linkedin.com/in/varun-more/)
+ - 🗣 Knows English, Hindi, Marathi, Learning German.
+
+  
+### 
+
+
+
+
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varmor&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varmor&layout=compact)](https://github.com/varmor/github-readme-stats)
+### Authors
+
+- [@varmor](https://www.github.com/varmor)
