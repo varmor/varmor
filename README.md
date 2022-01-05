@@ -4,7 +4,7 @@
 
   
 ###  Computer Science Major| Seeking Software Engineering Internship.
-### 🔗 _Portfolio_ - [click here](https://varmor.github.io/)
+### 🔗 _Portfolio-site_ - [click here](https://varmor.github.io/)
 
 ## 🛠 Skills
 - C Programming, 
