@@ -4,7 +4,7 @@
 
   
 ### Aspiring Machine Learning Engineer 📊| Computer Science💻 + Artificial Intelligence🧠 | Python, C++, C Programming, JavaScript.
-### 🔗 _Portfolio-site_ - [click here](https://varmor.github.io/)
+### 🔗 Resume - [_click here_](https://varmor.github.io/)
 
 ## 🛠 Skills
 - C Programming, 
