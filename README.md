@@ -1,33 +1,15 @@
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Varun!](https://varmor.github.io) 
 
+<a href="https://www.linkedin.com/in/varun-more/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/thisisvarunmore">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:morevarun4004@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
+<br />
 
-# Hi, I'm Varun More
-
-  
-### Aspiring Machine Learning Engineer 📊| Computer Science💻 + Artificial Intelligence🧠 | Python, C++, C Programming, JavaScript.
-### 🔗 Resume - [_click here_](https://varmor.github.io/)
-
-## 🛠 Skills
-- C Programming, 
-- C++,
-- Python,
-- JavaScript,
-- MySQL,
-- HTML/CSS.
-
-  
-## 😃 About me 
- - 🍳Find me on [LinkedIn](https://www.linkedin.com/in/varun-more/)
- - 🗣 Knows English, Hindi, Marathi, Learning German.
-
-  
-### 
-
-
-
-
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varmor&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varmor&layout=compact)](https://github.com/varmor/github-readme-stats)
-### Authors
-
-- [@varmor](https://www.github.com/varmor)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=varmor.varmor)
