@@ -1,15 +1,28 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Varun!](https://varmor.github.io) 
+<h1 align="center">Hi there👋, I'm <a href="#">Varun</a>!</h1>
+<h3 align="center">An Engineering Major from India.</h3>
 
-<a href="https://www.linkedin.com/in/varun-more/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/thisisvarunmore">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:morevarun4004@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br />
-<br />
+
+```js
+const name = "Varun";
+
+Developer dev = new Developer(name);
+
+while(dev.isCoding())
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+  dev.drinkCoffee();
+}
+```
+
+<p align="center">Check out my <a href="https://varmor.github.io/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
+<p align="center">Feel free reaching out to me at following platforms:</p>
+
+<p align="center">
+  <a href="https:https://www.linkedin.com/in/varun-more/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+  <a href="https://twitter.com/thisisvarunmore/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:morevarun4004@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=varmor.varmor)
