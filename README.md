@@ -19,8 +19,9 @@ while(dev.isCoding())
    <br/>
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/73105729/177190575-c4893e8f-6365-47ef-ac4f-883e10dbfec7.gif" />
-    <a href="https://github.com/varmor/SY_AI_B_G2_SPAM-EMAIL-DETECTION">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=varmor&repo=SY_AI_B_G2_SPAM-EMAIL-DETECTION&bg_color=EAF6F6&text_color=66BFBF&title_color=66BFBF&border_color=66BFBF&icon_color=66BFBF" />
+    <a href="https://github.com/varmor/SY_AI_B_G2_SPAM-EMAIL-DETECTION"> 
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=varmor&repo=SY_AI_B_G2_SPAM-EMAIL-DETECTION&bg_color=EAF6F6&text_color=140200&title_color=66BFBF&border_color=66BFBF&icon_color=66BFBF" />
+</a>
 </a>
 </p>
 
