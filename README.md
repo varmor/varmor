@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm <a href="#">Varun</a>!</h1>
-<h3 align="center">An Engineering Major from India.</h3>
+<h3 align="center">An engineering major from India.</h3>
 
 
 ```js
