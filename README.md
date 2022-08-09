@@ -5,7 +5,7 @@ dots, ideas from different disciplines, people from different teams, or applicat
 solving data science and machine learning problems while communicating complex ideas to non-technical stakeholders. I have good technical abilities as well as an
 academic background in Engineering (Computer Science + Artificial Intelligence).
 </p>
-<p align="center">Check out my <a href="https://varmor.github.io/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
+
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">
