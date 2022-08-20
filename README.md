@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm <a href="#">Varun</a>!</h1>
+<h1 align="center">Hi there👋, I'm <a href="https://varmor.github.io/">Varun</a>!</h1>
 
 <p align="justify">I'm an intermediate Engineering Major at @GHRCEM, Pune, and an aspiring Machine Learning Engineer who enjoys connecting the
 dots, ideas from different disciplines, people from different teams, or applications from different industries, my passion lies in
