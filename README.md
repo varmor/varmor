@@ -1,9 +1,8 @@
 <h1 align="center">Hi there👋, I'm <a href="https://varmor.github.io/">Varun</a>!</h1>
 
-<p align="justify">I'm an intermediate Engineering Major at @GHRCEM, Pune, and an aspiring Machine Learning Engineer who enjoys connecting the
-dots, ideas from different disciplines, people from different teams, or applications from different industries, my passion lies in
-solving complex problems while communicating the ideas to non-technical stakeholders. I have good technical abilities as well as an
-academic background in Engineering (Computer Science + Artificial Intelligence).
+<p align="justify">Currently, saying YES to great opportunities, and Seeking to leverage my technical skills and further hone them.
+I am a third-year Artificial Intelligence Engineering major at G.H. Raisoni College of Engineering and Management in Pune. I like networking with people from various teams. I have a strong interest in problem-solving and understanding new technology.
+I have some experience working in startups as a software intern. I’m graduating in May 2024 and I’m looking for an opportunity to expand my horizons.
 </p>
 
 <p align="center">Check out my <a href="https://varmor.github.io/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
