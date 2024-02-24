@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm <a href="https://varmor.github.io/">Varun</a>!</h1>
 
 <p align="justify">Currently, saying YES to great opportunities, and Seeking to leverage my technical skills and further hone them.
-I am a third-year Artificial Intelligence Engineering major at G.H. Raisoni College of Engineering and Management in Pune. I like networking with people from various teams. I have a strong interest in problem-solving and understanding new technology.
+I am a final-year Artificial Intelligence Engineering major at G.H. Raisoni College of Engineering and Management in Pune. I like networking with people from various teams. I have a strong interest in problem-solving and understanding new technology.
 I have some experience working in startups as a software intern. I’m graduating in May 2024 and I’m looking for an opportunity to expand my horizons.
 </p>
 
