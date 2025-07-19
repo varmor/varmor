@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Artificial Intelligence (Honors in Data Science)
 
-👨‍💻 Aspiring Data Engineer | Python Enthusiast | ETL & ML PoC Explorer
+👨‍💻 Aspiring Software & Data Engineer | Python, Java, SQL | ETL & ML PoC Explorer
 
 📍 Pune, India | Open to Remote, Hybrid, or In-Office Roles
 
